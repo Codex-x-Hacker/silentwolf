@@ -1,6 +1,6 @@
 build:
   languages:
-    - node        ← uses Node.js buildpack (compiles better-sqlite3 natively)
+    - node        
   config:
     NODE_ENV: production
 
